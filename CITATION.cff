@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Accounting and bookkeeping statistics 2026"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/accounting-statistics-2026"
+repository-code: "https://github.com/ZeraBooks/accounting-statistics-2026"
+license: CC-BY-4.0
+abstract: "U.S. accountants and auditors earned a median $83,680 a year in May 2025 and held about 1.6 million jobs, projected to grow 5% by 2035. Bookkeeping clerks earned a median $50,670 and their jobs are projected to fall 6%. This repository has 51 figures like these in one CSV, each linked to its BLS, Census, SBA or IRS source."
+keywords:
+  - accounting
+  - bookkeeping
+  - statistics
+  - labor-market
+  - bls
+  - open-data
+  - cpa
+date-released: 2026-11-04
